@@ -1,0 +1,12 @@
+Fri Jan  1 17:10:56 PHT 2016
+This is a binary adder.
+We use typedef boolean objects instead of bit fiddling to ensure that no
+machine-dependent feature can mess our algorithm
+Sat Jan  2 01:58:54 PHT 2016
+It works. Took my whole day, though.
+But it was fun, which was the whole point
+of it. Remember Feynman's words: do it for
+the fun of it.
+
+There are few things in this world that
+gives the same kick as programming.

@@ -1,0 +1,13 @@
+badd.c:134:7: warning: incompatible pointer to integer conversion passing 'bool [17]' to parameter of type 'bool' (aka 'char') [-Wint-conversion]
+        sadd(a, b);
+             ^
+badd.c:107:16: note: passing argument to parameter 'a' here
+bool sadd(bool a, bool b)
+               ^
+badd.c:134:10: warning: incompatible pointer to integer conversion passing 'bool [17]' to parameter of type 'bool' (aka 'char') [-Wint-conversion]
+        sadd(a, b);
+                ^
+badd.c:107:24: note: passing argument to parameter 'b' here
+bool sadd(bool a, bool b)
+                       ^
+2 warnings generated.
